@@ -1,0 +1,58 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled5.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMmQbYKKLgkqBmIk4Rj+dUO",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/PatchareepornT/Basicprg_DataViz65/blob/main/midtermgroup.jpg\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Grading"
+      ],
+      "metadata": {
+        "id": "5TrvLIJ95jwK"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "![gradind image](Grading.jpg)\n",
+        "\n",
+        "#สมาชิกในกลุ่ม\n",
+        "กลุ่ม midterm ชื่อ สาวสาวสาว\n",
+        "\n",
+        "1.นางสาวพัชรีภรณ์ ตากวัก\n",
+        "\n",
+        "2.นางสาวพิมพกานต์ ภูพานทอง\n",
+        "\n",
+        "3.ศศิวิมล วิลาชัย"
+      ],
+      "metadata": {
+        "id": "_6LcKizX5m0x"
+      }
+    }
+  ]
+}
